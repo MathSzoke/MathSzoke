@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Henrique Szoke La Motta</h1>
 <h3 align="center">A passionate Back and Frontend developer from Brazil</h3>
 
-- 🔭 I’m studying Analysis and systems development **Estácio Santo Amaro**
+- 🔭 I’m studying Analysis and systems development from **Estácio Santo Amaro**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
