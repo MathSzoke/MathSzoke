@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying Analysis and systems development **Estácio Santo Amaro**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-szoke-b819241a5/" target="blank"><img align="center" src="#0275b5" alt="matheus szoke" height="30" width="40" /></a>
 </p>
