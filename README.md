@@ -9,7 +9,7 @@
                     <a href="https://web.whatsapp.com/send?phone=5511991381138" target="_blank">
                         <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
                     </a><a href="https://www.facebook.com/messages/t/100006828825286" target="_blank">
-                        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+                        <img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
                     </a>
 </p>
 
