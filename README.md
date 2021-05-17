@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Back and Frontend developer from Brazil</h3>
 
 - 🔭 I’m studying Analysis and systems development from **Estácio Santo Amaro**
+- My learnings in the mentioned languages are in process, I started to study hard with a focus on the BACKEND area, which is where I intend to act.
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
