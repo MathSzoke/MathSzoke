@@ -7,7 +7,7 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-szoke-b819241a5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matheus szoke"/></a>
-                    <a href="https://web.whatsapp.com/send?phone=5511991381138" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=5511991381138&text=Ol%C3%A1%20Math%2C%20eu%20amo%20muito%20voc%C3%AA!" target="_blank">
                         <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
                     </a><a href="https://www.facebook.com/messages/t/100006828825286" target="_blank">
                         <img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
