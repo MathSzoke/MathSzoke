@@ -6,7 +6,7 @@
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
-<a href="[https://www.linkedin.com/in/matheus-szoke-b819241a5/](https://www.linkedin.com/in/matheus-henrique-szoke-la-motta-b819241a5/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matheus szoke"/></a>
+<a href="https://www.linkedin.com/in/matheus-szoke-b819241a5/](https://www.linkedin.com/in/matheus-henrique-szoke-la-motta-b819241a5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matheus szoke"/></a>
                     <a href="https://api.whatsapp.com/send?phone=5511991381138&" target="_blank">
                         <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
                     </a><a href="https://www.facebook.com/messages/t/100006828825286" target="_blank">
