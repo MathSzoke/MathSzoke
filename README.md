@@ -56,6 +56,6 @@
     <img src="https://icons8.com/icon/VLKafOkk3sBX/azure" alt="azuredevops" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R?activetab=pivot:overviewtab&ef_id=_k_Cj0KCQjwho-lBhC_ARIsAMpgModp6kIkjpB8R9erToE6ES4q2IE1gRBLmPJ1I7yS6gpyQtTkdZMUc34aAs4DEALw_wcB_k_&OCID=AIDcmmq9ldqz5w_SEM__k_Cj0KCQjwho-lBhC_ARIsAMpgModp6kIkjpB8R9erToE6ES4q2IE1gRBLmPJ1I7yS6gpyQtTkdZMUc34aAs4DEALw_wcB_k_&gclid=Cj0KCQjwho-lBhC_ARIsAMpgModp6kIkjpB8R9erToE6ES4q2IE1gRBLmPJ1I7yS6gpyQtTkdZMUc34aAs4DEALw_wcB" target="_blank" title="Excel">
-    <img src="https://icons8.com/icon/117561/microsoft-excel-2019" alt="excel" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="excel" width="40" height="40"/> 
   </a>
 </p>
