@@ -1,7 +1,6 @@
 <h1 align="center">Hello boys and girls, my name is Matheus Szoke</h1>
 <h3 align="center">Fullstack Developer from Brazil</h3>
 
-- 🔭 I’m studying "Análise e Desenvolvimento de Sistemas" in **Descomplica Faculdade Digital**
 - My learnings in the mentioned languages are in process, I started to study hard with a focus on the BACKEND area, which is where I intend to act.
 
 <h3 align="center">Contact with me:</h3>
