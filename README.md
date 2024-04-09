@@ -11,3 +11,7 @@
 > [!IMPORTANT]
 > # Acompanhe-me também no **HackerRank**
 > <a href="https://www.hackerrank.com/profile/matheusszoke" target="_blank">Hacker rank profile</a>
+>
+> ## Certificados HackerRank
+>
+> <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png"><img src="assets/java_basic_skill.png" alt="Java (Basic) Certificate"/></a>
