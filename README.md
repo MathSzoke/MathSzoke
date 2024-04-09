@@ -14,4 +14,4 @@
 >
 > ## Certificados HackerRank
 >
-> <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png"><img src="assets/java_basic_skill.png" alt="Java (Basic) Certificate"/></a>
+> <img src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
