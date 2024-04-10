@@ -14,10 +14,10 @@
 >
 > ## Badges HackerRank
 >
-> <img src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
 > <img src="assets/problem-solving-bronze-level.png" alt="Problem Solving bronze level badge" />
+> <img src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
 >
 > ## Certificados HackerRank
 >
-> <img width="100" src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
 > <img width="80" src="assets/problem-solving-basic.png" alt="Problem Solving (Basic) Certificate" />
+> <img width="100" src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
