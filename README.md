@@ -12,6 +12,10 @@
 > # Acompanhe-me também no **HackerRank**
 > <a href="https://www.hackerrank.com/profile/matheusszoke" target="_blank">Hacker rank profile</a>
 >
+> ## Badges HackerRank
+>
+> <img width="50" src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
+>
 > ## Certificados HackerRank
 >
 > <img width="100" src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
