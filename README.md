@@ -15,3 +15,4 @@
 > ## Certificados HackerRank
 >
 > <img src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
+> <img src="assets/problem-solving-basic.png" alt="Problem Solving (Basic) Certificate" />
