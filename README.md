@@ -14,7 +14,7 @@
 >
 > ## Badges HackerRank
 >
-> <img width="50" src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
+> <img src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
 >
 > ## Certificados HackerRank
 >
