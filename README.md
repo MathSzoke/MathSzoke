@@ -21,4 +21,4 @@
 >
 > <img width="80" src="assets/problem-solving-basic.png" alt="Problem Solving (Basic) Certificate" />
 > <img width="100" src="assets/java_basic_skill.png" alt="Java (Basic) Certificate" />
-> <img width="100" src="assets/csharp_basic_skill.png" alt="C# (Basic) Certificate" />
+> <img width="80" src="assets/csharp_basic_skill.png" alt="C# (Basic) Certificate" />
