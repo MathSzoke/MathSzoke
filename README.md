@@ -14,7 +14,7 @@
 >
 > ## Badges HackerRank
 >
-> <img width="100" src="assets/problem-solving-level.png" alt="Problem Solving bronze level badge" />
+> <img width="100" src="assets/problem-solving-level.png" alt="Problem Solving badge" />
 > <img width="100" src="assets/java-badge-gold-level.png" alt="Java gold level badge" />
 >
 > ## Certificados HackerRank
