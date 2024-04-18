@@ -3,8 +3,16 @@
 - 🖥️ Estudando atualmente <strong>Python</strong>/<strong>AI Generative</strong>/<strong>Machine Learning/Deep Learning</strong>.
 - 📚 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
-### Habilidades / Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,java,cs,dotnet,python,git,firebase)
+### Tecnologias: 
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,nodejs,java,angular,react,js)
+
+### Bancos de dados: 
+![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,sqlite)
+
+### Ferramentas: 
+![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman,vscode,visualstudio,idea,pycharm)
+
+<hr/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MathSzoke&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs,issues" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSzoke&&theme=blueberry&layout=compact&langs_count=8&hide=scss,sass,pug" />
 
