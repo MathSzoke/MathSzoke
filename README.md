@@ -14,7 +14,7 @@
 
 <hr/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MathSzoke&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs,issues" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSzoke&&theme=blueberry&layout=compact&langs_count=8&hide=scss,sass,pug" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MathSzoke&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSzoke&&theme=blueberry&layout=compact&langs_count=8&hide=scss,sass,pug" />
 
 > [!IMPORTANT]
 > # Acompanhe-me também no **HackerRank**
