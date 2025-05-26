@@ -4,13 +4,13 @@
 - 📚 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
 ### Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,nodejs,java,angular,react,js)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,nodejs,angular,react,js)
 
 ### Bancos de dados: 
 ![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,sqlite)
 
 ### Ferramentas: 
-![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman,vscode,visualstudio,idea,pycharm)
+![My Skills](https://skillicons.dev/icons?i=git,github,azure,postman,vscode,visualstudio,pycharm)
 
 <hr/>
 
