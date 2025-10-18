@@ -1,10 +1,10 @@
 ### Olá, meu nome é Matheus Szoke.
 - 🌎 Bem vindo ao meu perfil Github!
 - 🖥️ Estudando atualmente <strong>Python</strong>/<strong>AI Generative</strong>/<strong>Machine Learning/Deep Learning</strong>.
-- 📚 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
+- 📚 Pós graduado em <strong>Engenharia de Software</strong>.
 
 ### Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,nodejs,angular,react,js)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,ts,nodejs,react,js)
 
 ### Bancos de dados: 
 ![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,sqlite)
